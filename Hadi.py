@@ -44,7 +44,7 @@ for agent in range(10000):
         k=random.randrange(40,150)
         l='Mobile Safari/533.1'
         useragent=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
-        useragent.append(useragent)
+        ugen.append(useragent)
 logo=("""\033[1;37m                        
 _   _  ___                ___ 
 | | | |/ _ \     /\         (   )
